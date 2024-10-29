@@ -1,3 +1,9 @@
+# Crestron SIMPL# and SIMPL+ integration
+
+Links to the no longer easy to reach introduction to SIMPL#. This is severely outdated and references Visual Studio 2008, which is still relevant when coding for Series 3 processors
+
+More importantly below are the guidelines to integrate classes, properies, events, etc from SIMPL# to SIMPL+.  These are still relevant both for Series 3 and Series 4 processors.
+
 ## Chapter 1
 * [Introduction](https://help.crestron.com/SimplSharp/Introduction/Introduction.htm)
 * [Getting Started](https://help.crestron.com/SimplSharp/Chapter_1/Getting_Started.htm)
